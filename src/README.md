@@ -4,6 +4,7 @@ layout: BlogHome
 icon: home
 title: 白桃与猫
 heroImage: "/logo.png"
+cover: "/bg.png"
 heroText: 白桃与猫
 heroFullScreen: true
 tagline: 无法打败我的，只会使我变得更强大
