@@ -8,12 +8,12 @@ export default hopeTheme({
 
   author: {
     name: "白桃与猫",
-    url: ".vuepress/public/avatar.jpg",
+    url: "/avatar.jpg",
   },
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: ".vuepress/public/logo.png",
+  logo: "/logo.png",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
