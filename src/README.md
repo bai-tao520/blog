@@ -2,7 +2,7 @@
 home: true
 layout: BlogHome
 icon: home
-cover: "/bg.png"
+backgroud: "/bg.png"
 title: 白桃与猫
 heroImage: "/logo.png"
 heroText: 白桃与猫
