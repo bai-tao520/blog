@@ -8,7 +8,7 @@ export default hopeTheme({
 
   author: {
     name: "白桃与猫",
-    url: "/.vuepress/public/avatar.jpg",
+    url: ".vuepress/public/avatar.jpg",
   },
 
   iconAssets: "fontawesome-with-brands",
