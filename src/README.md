@@ -1,12 +1,12 @@
 ---
 home: true
-layout: BlogHome
-icon: home
-title: 博客主页
+layout: 白桃与猫
+icon: 白桃与猫
+title: 白桃与猫
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: 你博客的名称
+heroText: 白桃与猫
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: 打不败我的，只会使我变得更强大
 projects:
   - icon: project
     name: 项目名称
