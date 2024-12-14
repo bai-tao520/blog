@@ -2,9 +2,9 @@
 home: true
 layout: BlogHome
 icon: home
+cover: "/bg.png"
 title: 白桃与猫
 heroImage: "/logo.png"
-background: "/bg.png"
 heroText: 白桃与猫
 heroFullScreen: true
 tagline: 无法打败我的，只会使我变得更强大
